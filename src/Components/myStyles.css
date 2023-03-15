@@ -1,0 +1,14 @@
+.primary{
+    color: brown;
+    /* text-transform: capitalize; */
+    
+}
+.font-xl{
+    font: 500px;
+}
+.sex{
+    text-transform: uppercase;
+}
+.error{
+    color: red;
+}
